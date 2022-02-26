@@ -28,6 +28,41 @@
   color: #61dafb;
 }
 
+.btn-cotaier button{
+  background-color: rgb(207, 240, 59);
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: black;
+
+} 
+
+.card-container {
+  height: 150px;
+  width: 400px;
+  border: 3px solid blue;
+  margin-left: 10%;
+}
+
+.img-cotaier img {
+  width: 100px;
+  margin-top: 10px;
+}
+
+.item{
+  float: left;
+  width: 120px;
+  padding: 20px;
+}
+
+.add-to-card img{
+  width: 80px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
